@@ -1,3 +1,9 @@
+This is a game similar to flappy bird and is created using p5.js library.
+
+
+The instructions for installation and procedure are listed below:
+
+
 To install the native application:
 
   
